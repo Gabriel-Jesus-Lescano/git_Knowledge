@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918643544005",
+    "firebase_url": "https://logintestkotlin.firebaseio.com",
+    "project_id": "logintestkotlin",
+    "storage_bucket": "logintestkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918643544005:android:d49c1875c5d73f641e85ac",
+        "android_client_info": {
+          "package_name": "com.firebaseTest.knowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918643544005-e9rvn4omsr7lenb149mq3ding5icjs8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYAgfCIo-s1TAaRnvffKlramuIFSWtsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918643544005-e9rvn4omsr7lenb149mq3ding5icjs8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
